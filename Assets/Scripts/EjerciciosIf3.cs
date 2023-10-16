@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EjerciciosTresYCuatro : MonoBehaviour
+public class EjerciciosIf3 : MonoBehaviour
 {
     /*
         EJERCICIO 3

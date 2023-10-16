@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EjerciciosSieteOchoYNueve : MonoBehaviour
+public class EjerciciosIf6 : MonoBehaviour
 {
     [SerializeField] private string letra;
 

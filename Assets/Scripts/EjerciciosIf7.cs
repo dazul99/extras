@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EjerciciosDiezOnceYDoce : MonoBehaviour
+public class EjerciciosIf7 : MonoBehaviour
 {
     /*
      * EJERCICIO 10

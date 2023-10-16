@@ -2,18 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EjercicioDos : MonoBehaviour
+public class EjercicioIf1 : MonoBehaviour
 {
     [SerializeField] private int num;
     void Start()
     {
-        if (num < 0)
+        if (num >= 0)
         {
-            Debug.Log("El número es negativo");
+            Debug.Log("El número es positivo");
         }
         else
         {
-            Debug.Log("El número NO es negativo");
+            Debug.Log("El número NO es positivo");
         }
     }
 }

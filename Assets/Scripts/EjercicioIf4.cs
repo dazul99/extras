@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EjercicioCinco : MonoBehaviour
+public class EjercicioIf4 : MonoBehaviour
 {
     [SerializeField] private float precio;
     [SerializeField] private float porcentajeDescuento;
