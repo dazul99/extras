@@ -93,6 +93,7 @@ public class EjerciciosIf7 : MonoBehaviour
             if (sig == 2)
             {
                 total += 28;
+                if (bis) total++;
             }
             else if (sig == 1 || sig == 3 || sig == 5 || sig == 7 || sig == 8 || sig == 10 || sig == 12)
             {
@@ -105,10 +106,6 @@ public class EjerciciosIf7 : MonoBehaviour
             sig++;
         }
         total += dia;
-        if(bis)
-        {
-            total++;
-        }
         Debug.Log("Han pasado un total de " + total + " dias");
     }
 
